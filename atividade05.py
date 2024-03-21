@@ -24,7 +24,7 @@ elif sexo == "mulher":
     print("Seu peso ideal é: {:.2f} kg".format(peso_ideal_mulheres))
 
 else:
-    print("Sexo não reconhecido. Por favor, digite 'homem' ou 'mulher'.")
+    print("Por favor, digite 'homem' ou 'mulher'.")
 
 
   
