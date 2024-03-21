@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 altura = float(input("Digite a sua altura: "))
 sexo = input("Qual é o seu sexo (homem ou mulher?): ")
 
@@ -25,6 +17,3 @@ elif sexo == "mulher":
 
 else:
     print("Por favor, digite 'homem' ou 'mulher'.")
-
-
-  
